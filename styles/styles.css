@@ -1,0 +1,10 @@
+table{
+    border: saddlebrown;
+    padding: 12px;
+    table-layout: auto;
+}
+
+body{
+  background-color: grey;
+  text-align: center;
+}
